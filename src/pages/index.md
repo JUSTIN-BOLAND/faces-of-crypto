@@ -7,10 +7,9 @@ sections:
     title: >-
       Faces of Crypto. </br> A physical digital experience. Dedicated to
       connecting to decentralized.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      Ever wondered what your favorite crypto influencers life looks like? 
+      FOC gives you the opportunity to look behind the orange colored lens. 
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
