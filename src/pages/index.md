@@ -12,7 +12,7 @@ sections:
       FOC gives you the opportunity to look behind the orange colored lens. 
   - type: portfolio_section
     section_id: latest-projects
-    title: Recent Work
+    title: 'NEWEST F.O.C. INTERVIEWS:'
     subtitle: Explore case studies
     layout_style: tiles
     projects_number: 6
