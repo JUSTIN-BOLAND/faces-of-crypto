@@ -13,7 +13,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: 'NEWEST F.O.C. INTERVIEWS:'
-    subtitle: Explore case studies
+    subtitle: Check out the newest F.O.C. interviews
     layout_style: tiles
     projects_number: 6
     view_all_label: View All
