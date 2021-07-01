@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       Faces of Crypto. </br> A physical digital experience. Dedicated to
-      connecting to decentralized.
+      connecting the decentralized.
     content: |
       Ever wondered what your favorite crypto influencers life looks like? 
       FOC gives you the opportunity to look behind the orange colored lens. 
